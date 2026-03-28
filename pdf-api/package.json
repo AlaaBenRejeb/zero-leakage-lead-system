@@ -1,0 +1,9 @@
+{
+  "name": "zero-leakage-pdf",
+  "version": "1.0.0",
+  "description": "Serverless HTML-to-PDF API — Zero Leakage Lead System",
+  "dependencies": {
+    "@sparticuz/chromium-min": "^131.0.0",
+    "puppeteer-core": "^23.0.0"
+  }
+}
